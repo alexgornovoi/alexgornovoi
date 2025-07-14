@@ -1,4 +1,4 @@
-- Site Reliability Engineer
+- Generative AI Engineer
 - Working on alexgornovoi.com
 - Contact me using email
 
