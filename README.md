@@ -1,4 +1,4 @@
-- Generative AI Engineer
+- Software Engineer
 - Working on [rule-pack](https://github.com/alexgornovoi/rule-pack)
 - Contact me using email
 
